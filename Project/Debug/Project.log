@@ -1,0 +1,4 @@
+﻿  KW_cafe.c
+D:\3학년 2학기\고급C프로그래밍\Team project\Project\KW_cafe.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+D:\3학년 2학기\고급C프로그래밍\Team project\Project\KW_cafe.c : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+  Project.vcxproj -> D:\3학년 2학기\고급C프로그래밍\Team project\Project\Debug\Project.exe
